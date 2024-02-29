@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Division",
+    "bnName": "বিভাগ",
+    "districts": [
+      {
+        "name": "District",
+        "bnName": "জেলা",
+        "thanas": [
+          {
+            "name": "Thana",
+            "bnName": "থানা",
+            "areas": [
+              {
+                "name": "Area",
+                "bnName": "গ্রাম/মহল্লা"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
